@@ -1,4 +1,4 @@
-# QAEmergya Quickstart Project
+#QAEmergya Quickstart Project
 The aim of this project is to provide a maven archetype for selenium projets using the _qa-selenium-handler_ available in https://github.com/Emergya/qa-selenium-handler/tree/selenium3-handler
 
 ## Prerequisites
