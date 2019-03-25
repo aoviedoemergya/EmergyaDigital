@@ -48,7 +48,7 @@ public class EmergyaDigitalMainTestSet extends BasicTestSet {
      * - Close the browser
      *
      */
-   /* @Test(description = "checkHeaderHasNotBeenUpdated")
+   @Test(description = "checkHeaderHasNotBeenUpdated")
     public void checkHeaderHasNotBeenUpdated(Method method) {
         log.info("[log-TestSet] " + this.getClass().getName()
                 + " - Start test method: " + method.getName());
